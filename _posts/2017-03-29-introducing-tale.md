@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Перевірка здатності перевіряти"
 author: "Chester"
 comments: true
 ---
